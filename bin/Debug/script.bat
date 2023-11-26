@@ -1,0 +1,1 @@
+start /d "./" keyboard-script.exe

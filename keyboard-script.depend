@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700968478 source:c:\users\lyovi\onedrive\desktop\script\keyboard-script\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+
